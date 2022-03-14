@@ -1,4 +1,3 @@
-const v = 2
 const cacheName = 'my-site-cache-v1'
 const urlsToCache = [
     './assets/img/1.png',
